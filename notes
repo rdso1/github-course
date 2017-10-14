@@ -1,0 +1,11 @@
+~~Git e Github para iniciantes~~
+
+- criar os arquivos
+- git status: verificar status dos arquivos
+- git add: preparar arquivos para commit
+- git commit -m:commit arquivo com mensagem
+- git commit -am: adicionar + commit com mensagem
+- git log: histórico de commits
+- git diff: verificar modificações nates de adicionar arquivo
+- git checkout: desfazer modificações antes de adicionar arquivo
+- git reset HEAD: trazer arquivo adicionado para estado de unstaged

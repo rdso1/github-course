@@ -6,4 +6,3 @@ Saiba mais no link
 
 Gostou do curso?
 
-Testando
